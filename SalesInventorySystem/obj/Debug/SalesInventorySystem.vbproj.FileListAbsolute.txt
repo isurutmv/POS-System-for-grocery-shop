@@ -1,0 +1,155 @@
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\bin\Debug\SalesInventorySystem.pdb
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\bin\Debug\SalesInventorySystem.xml
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\SalesInventorySystem.Resources.resources
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.GenerateResource.Cache
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.pdb
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.xml
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\ResolveAssemblyReference.cache
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.Resources.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.GenerateResource.Cache
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadStaff.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmStaff.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmCustomer.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadCustomer.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmItem.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadItem.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPOS.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPayment.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintReceipt.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmMain.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmAvailableStocks.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmSoldItems.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItems.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItemsPrint.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksIn.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksInPrint.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintAvailableStocks.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLogin.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmUsers.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.pdb
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.xml
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\ResolveAssemblyReference.cache
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmAvailableStocks.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmCustomer.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmItem.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadCustomer.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadItem.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadStaff.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLogin.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmMain.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPayment.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPOS.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintAvailableStocks.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintReceipt.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItems.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItemsPrint.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksIn.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksInPrint.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmSoldItems.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmStaff.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmUsers.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.Resources.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.GenerateResource.Cache
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.pdb
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.xml
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmAvailableStocks.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmCustomer.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmItem.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadCustomer.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadItem.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadStaff.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLogin.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmMain.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPayment.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPOS.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintAvailableStocks.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintReceipt.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItems.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItemsPrint.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksIn.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksInPrint.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmSoldItems.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmStaff.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmUsers.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.Resources.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.GenerateResource.Cache
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\bin\Debug\Interop.MSDAOSP.dll
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.ResolveComReference.cache
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.ResolveComReference.cache
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\bin\Debug\SalesInventorySystem.pdb
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\bin\Debug\SalesInventorySystem.xml
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\bin\Debug\Interop.MSDAOSP.dll
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmAvailableStocks.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmCustomer.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmItem.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadCustomer.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadItem.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadStaff.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLogin.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmMain.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPayment.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPOS.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintAvailableStocks.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintReceipt.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItems.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItemsPrint.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksIn.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksInPrint.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmSoldItems.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmStaff.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmUsers.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.Resources.resources
+C:\Users\isuru\Desktop\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.GenerateResource.Cache
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\Interop.MSDAOSP.dll
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.ResolveComReference.cache
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\bin\Debug\SalesInventorySystem.pdb
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\bin\Debug\SalesInventorySystem.xml
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\bin\Debug\Interop.MSDAOSP.dll
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmAvailableStocks.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmCustomer.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmItem.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadCustomer.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadItem.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadStaff.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLogin.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmMain.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPayment.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPOS.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintAvailableStocks.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintReceipt.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItems.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItemsPrint.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksIn.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksInPrint.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmSoldItems.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmStaff.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmUsers.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.Resources.resources
+F:\project\New folder (2)\vb6\salesinventorysystem\shalinda\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.GenerateResource.Cache
